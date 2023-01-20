@@ -20,7 +20,7 @@
     --cor3: #8E5D4C;
     --cor4: #6F4D43;
     --cor5: #342E32;
-    --cor6: #ff463c;
+    --cor6: #9c1b14;
 
     --fonte_padrao: Arial, Helvetica, sans-serif;
     --fonte_cabecalho: 'Noto Sans TC', sans-serif;
@@ -35,10 +35,6 @@
 body {
     background-color: var(--cor6);
     font-family: var(--fonte_destaque);
-    background-image: url('imagens/hu_tao_bg.jpeg');
-    background-repeat: repeat-x;
-    background-size: contain;
-    background-attachment: fixed;
 }
 
 header {
